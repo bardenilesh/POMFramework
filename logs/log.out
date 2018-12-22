@@ -1,0 +1,30 @@
+2018-06-03 11:29:08 DEBUG LogFunctionality:10 - Debug Message!
+"2018-06-03 11:29:08 INFO  LogFunctionality:11 - Info Message!
+"2018-06-03 11:29:08 WARN  LogFunctionality:12 - Warn Message!
+"2018-06-03 11:29:08 ERROR LogFunctionality:13 - Error Message!
+"2018-06-03 11:29:08 FATAL LogFunctionality:14 - Fatal Message!
+"2018-06-03 11:31:07 INFO  SeleniumUtilities:72 - Initial Method
+"2018-06-03 11:31:55 INFO  LoginTest:39 - Successfully Logged In
+"2018-06-03 11:31:56 INFO  SeleniumUtilities:384 - Element text is: Sign out
+"2018-06-03 11:31:59 INFO  LoginTest:46 - Successfully cliked on Women link
+"2018-06-03 11:32:02 INFO  SeleniumUtilities:934 - Mouse hovered successfully on Quick view
+$16.51
+Faded Short Sleeve T-shirts
+Add to cart
+More
+In stock
+Add to Wishlist
+Add to Compare
+"2018-06-09 10:28:34 INFO  SeleniumUtilities:72 - Initial Method
+"2018-06-09 10:28:56 INFO  LoginTest:39 - Successfully Logged In
+"2018-06-09 10:28:56 INFO  SeleniumUtilities:384 - Element text is: Sign out
+"2018-06-09 10:29:00 INFO  LoginTest:46 - Successfully cliked on Women link
+"2018-06-09 10:29:04 INFO  SeleniumUtilities:934 - Mouse hovered successfully on Quick view
+$16.51
+Faded Short Sleeve T-shirts
+Add to cart
+More
+In stock
+Add to Wishlist
+Add to Compare
+"
